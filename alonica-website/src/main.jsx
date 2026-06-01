@@ -104,7 +104,7 @@ function App() {
         <section className="container hero-section">
           <div className="hero-copy">
             <p className="eyebrow">Narrative Blog</p>
-            <h1 className="text-4xl font-semibold tracking-[0.1em] text-white sm:text-5xl sm:tracking-[0.12em] md:text-6xl md:tracking-[0.14em] lg:text-7xl lg:tracking-[0.16em] whitespace-nowrap">A L O N I C A</h1>
+            <h1 className="hero-title">A L O N I C A</h1>
             <p className="hero-description">
               Perjalanan seorang perempuan yang terlihat kuat dari luar, tetapi di dalam dirinya masih mencari bentuk, arah, dan jati diri.
             </p>
