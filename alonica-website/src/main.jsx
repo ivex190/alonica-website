@@ -195,7 +195,7 @@ function App() {
         </section>
       </main>
 
-      <footer className="site-footer">A L O N I C A © 2026</footer>
+      <footer className="site-footer">Somebody Else © 2026</footer>
     </div>
   );
 }
