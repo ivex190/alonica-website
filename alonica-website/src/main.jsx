@@ -186,7 +186,7 @@ function App() {
 
         <section id="about" className="about-section">
           <div className="container-narrow about-box">
-            <p className="eyebrow">About</p>
+            <p className="eyebrow">Milky Way</p>
             <h2>Tentang Alonica</h2>
             <p>
               Alonica bukan perempuan sempurna. Ia adalah seseorang yang sedang belajar membaca dirinya sendiri setelah terlalu lama dibentuk oleh tekanan, luka, dan suara dunia.
@@ -195,7 +195,7 @@ function App() {
         </section>
       </main>
 
-      <footer className="site-footer">Somebody Else © 2026</footer>
+      <footer className="site-footer">SANDAKAN © 2026</footer>
     </div>
   );
 }
