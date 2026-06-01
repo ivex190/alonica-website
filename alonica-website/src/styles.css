@@ -114,8 +114,6 @@ a { color: inherit; text-decoration: none; }
   .chapter-nav { gap: 16px; }
   .chapter-nav button { max-width: 48%; font-size: 14px; }
 }
-.chapter-nav button { max-width: 48%; font-size: 14px; }
-}
 
 .hero-title {
   margin: 0;
